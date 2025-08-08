@@ -4,14 +4,35 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        int a=6,b=2;
+        System.out.println(a+b);
+        System.out.println(a-b);
+        System.out.println(a/b);
+        System.out.println(a*b);
+        System.out.println(b == a);
+        System.out.println(a >= b);
+        System.out.println(a <= b);
+        System.out.println(a != b);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        boolean c=false, d=true;
+        System.out.println(c&&d);
+        System.out.println(d||c);
+        System.out.println(!c);
+
+
+        int f =123;
+        double g = f;
+        System.out.println(f==g);
+        System.out.println(f);
+        System.out.println(g);
+
+        double h = 12.3;
+        int i = (int)h;
+        System.out.println(i==h);
+        System.out.println(i);
+        System.out.println(h);
+
+
+
     }
 }
