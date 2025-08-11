@@ -1,4 +1,4 @@
-package org.example.Head10_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class ConditionExample {
     public static void main(String[] args) {

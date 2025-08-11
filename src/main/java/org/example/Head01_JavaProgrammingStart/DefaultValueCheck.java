@@ -1,4 +1,4 @@
-package org.example.Head11_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class DefaultValueCheck {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package org.example.Head12_JavaProgrammingStart;
-
-import java.util.Arrays;
+package org.example.Head01_JavaProgrammingStart;
 
 public class ArrayAccess {
     public static void main(String[] args) {

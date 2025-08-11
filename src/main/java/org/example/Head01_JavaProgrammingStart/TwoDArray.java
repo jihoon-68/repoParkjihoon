@@ -1,4 +1,4 @@
-package org.example.Head14_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class TwoDArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.Head13_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class EnhancedForLoop {
     public static void main(String[] args) {

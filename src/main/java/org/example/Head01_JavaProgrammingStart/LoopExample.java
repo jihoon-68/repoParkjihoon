@@ -1,4 +1,4 @@
-package org.example.Head10_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class LoopExample {
     public static void main(String[] args) {

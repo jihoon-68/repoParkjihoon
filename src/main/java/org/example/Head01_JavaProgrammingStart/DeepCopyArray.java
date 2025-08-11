@@ -1,4 +1,4 @@
-package org.example.Head15_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class DeepCopyArray {
     public static void main(String[] args) {

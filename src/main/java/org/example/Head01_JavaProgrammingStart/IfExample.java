@@ -1,4 +1,4 @@
-package org.example.Head05_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class IfExample {
     public static void main(String[] args) {

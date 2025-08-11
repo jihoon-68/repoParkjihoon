@@ -1,4 +1,4 @@
-package org.example.Head16_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 import java.util.Arrays;
 

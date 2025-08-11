@@ -1,4 +1,4 @@
-package org.example.Head03_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class OperatorExample {
     public static void main(String[] args) {

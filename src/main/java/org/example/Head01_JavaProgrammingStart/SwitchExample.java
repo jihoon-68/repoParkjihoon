@@ -1,4 +1,4 @@
-package org.example.Head06_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class SwitchExample {
     public static void main(String[] args) {

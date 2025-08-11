@@ -1,4 +1,4 @@
-package org.example.Head02_JavaProgrammingStart;
+package org.example.Head01_JavaProgrammingStart;
 
 public class VariableExample {
     public static void main(String[] args) {
