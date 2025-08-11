@@ -1,4 +1,4 @@
-package org.example.Head02_JavaProgrammingStart.example03;
+package org.example.Head02_JavaProgrammingStart.example02;
 
 public class ProceduralOrderManager {
     public static void main(String[] args) {
