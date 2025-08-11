@@ -111,7 +111,6 @@ public class Bicycle {
                 " handleHeight=" + handleHeight +"\n";
     }
 
-
     //Getter
     // 자전거에 모든 정보를 들고올수 있게 전부 Getter 생성
 

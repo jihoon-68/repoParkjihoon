@@ -28,6 +28,5 @@ public class BicyleMain {
         myMtb.horn();
         myMtb.stunt();
         System.out.println(myMtb.toString());
-
     }
 }
