@@ -30,3 +30,29 @@ public class BicyleMain {
         System.out.println(myMtb.toString());
     }
 }
+/**
+ * 객체: 자전거
+ * 	속성
+ * 		브랜드(String),
+ * 		무게(int)
+ * 		기어 단수(int)
+ * 		브레이크 종류(String)
+ * 		종류(String)
+ * 		 휠(String)
+ * 		 체인(String)
+ * 		 손잡이(String)
+ * 		 바디 재질(String),
+ * 		 색상(String)
+ * 		 크기(int)
+ * 	행동
+ * 		체인 변경()
+ * 		안장 높이 조절()
+ * 		손잡이 높이 조절()
+ * 		브레이크()
+ * 		페달 밟기()
+ * 		반향전환()
+ * 		경적()
+ * 		주차()
+ * 		묘기()
+ * 		탑승()
+ **/
