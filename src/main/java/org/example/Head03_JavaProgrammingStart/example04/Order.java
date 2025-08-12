@@ -1,7 +1,7 @@
 package org.example.Head03_JavaProgrammingStart.example04;
 
-import org.example.Head03_JavaProgrammingStart.example01.Payment;
 /**
+ * import org.example.Head03_JavaProgrammingStart.example01.Payment;
  * public class Order {
  *     private Payment payment;
  *

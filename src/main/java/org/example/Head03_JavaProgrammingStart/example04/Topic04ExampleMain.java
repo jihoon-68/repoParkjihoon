@@ -13,13 +13,13 @@ public class Topic04ExampleMain {
         o3.process(5);
          **/
 
-        Order o1 = new Order(new CryptoPayment());
-        o1.process(3);
-        o1.cancel(3);
+        Order o1 = new Order(new AccountTransferPayment());
+        o1.process(300000);
+        o1.cancel(300000);
 
-        Order o2 = new Order(new CryptoPayment());
-        o2.process(5);
-        o2.cancel(5);
+        Order o2 = new Order(new CreditCardPayment());
+        o2.process(5000);
+        o2.cancel(5000);
 
         Order o3 = new Order(new CryptoPayment());
         o3.process(6);
