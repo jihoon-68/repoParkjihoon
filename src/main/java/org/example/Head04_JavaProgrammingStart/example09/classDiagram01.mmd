@@ -1,0 +1,20 @@
+classDiagram
+
+    class Payment {
+        +pay(amount: double) : void
+    }
+    class CreditCardPayment {
+        +pay(amount: double) : void
+    }
+    class MobilePayment {
+        +pay(amount: double) : void
+    }
+    class Order {
+        -payment : Payment
+        +Order(payment : Payment)
+        +processOrder(amount : double) : void
+    }
+
+    Payment <|.. CreditCardPayment
+    Payment <|.. MobilePayment
+    Order --> Payment

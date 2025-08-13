@@ -1,0 +1,12 @@
+sequenceDiagram
+    actor User
+    participant OrderController
+    participant OrderService
+    participant PaymentService
+
+    User->>OrderController: 주문 요청
+    OrderController->>OrderService: 주문 처리 호출
+    OrderService->>PaymentService: 결제 요청
+    PaymentService-->>OrderService: 결제 결과 반환
+    OrderService-->>OrderController: 주문 처리 결과
+    OrderController-->>User: 결과 응답
