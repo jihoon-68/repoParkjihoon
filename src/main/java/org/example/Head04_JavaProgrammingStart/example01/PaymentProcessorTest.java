@@ -8,7 +8,7 @@ public class PaymentProcessorTest {
                 new MobilePayment()
         };
 
-        int[] amounts = {
+        double[] amounts = {
                 30000,
                 10000,
                 20000
