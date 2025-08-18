@@ -21,5 +21,11 @@ public class ArrayVsArrayList {
         System.out.println("ArrayList: " + list);
         list.remove(Integer.valueOf(20));
         System.out.println("removed 20 → " + list);
+        int listSize = list.size();
+        System.out.println("ArrayList: " + listSize);
+        list.clear();
+        System.out.println(list);
+
+
     }
 }
