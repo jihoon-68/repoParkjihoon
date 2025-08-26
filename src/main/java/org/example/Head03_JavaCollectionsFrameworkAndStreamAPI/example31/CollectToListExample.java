@@ -9,7 +9,7 @@ public class CollectToListExample {
     public static void main(String[] args) {
         List<String> data = Arrays.asList("a", "b", "c", "b");
 
-        Set<String> setData = data.stream().collect(Collectors.toSet());
+        List<String> setData = data.stream().collect(Collectors.toList());
         System.out.println(setData);
     }
 }
